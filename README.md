@@ -1,6 +1,11 @@
 Horiseon Refactoring Project
 
-Greetings, as part of the Horiseon Refactoring project the following changes to the code were made:
+Greetings and salutations folks! As the premiere html editor for Horiseon my duty was to streamline our landing page's code to improve our SEO
+as well as fix the syntax issues with the site. We aim to deliver the highest quality of digital marketing for our clients and wanted to bring
+our website inline with our company's goals. As such, this project was dubbed the "Horiseon Refactoring Project" and we are happy to share the 
+changes we have made with our site. 
+
+As part of the "Horiseon Refactoring project" the following changes to the code were made:
 
 - Optimized html tags to improve SEO
     - Edited the header div to use header tags and used the nav tag to streamline the site navigation tool
@@ -24,3 +29,6 @@ Greetings, as part of the Horiseon Refactoring project the following changes to 
     
 - Added comments to describe what changes were made in the code
     - added descriptive comments for future editors to see what changes in the code were made
+
+This website is licensed under GNU GPLv3 to make available our source code to share and change our work within reasonable terms of liability and warranty.
+Thank you for viewing our readme and our code, we hope to further collaborate with like minded individuals for future advancements of html and css capability
